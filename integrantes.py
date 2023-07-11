@@ -1,0 +1,7 @@
+print("---------------------------------------------")
+print("             Integrantes\n")
+print("Marcos Cespedes")
+print("Daniela Jimenez")
+print("Jordan Moya")
+print("Diego Vasquez")
+print("---------------------------------------------")
